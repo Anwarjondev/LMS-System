@@ -1,0 +1,16 @@
+# Golang
+/bin/
+/pkg/
+*.exe
+*.test
+*.out
+
+# Node
+node_modules/
+dist/
+.env
+
+# Others
+.idea/
+.vscode/
+*.log
